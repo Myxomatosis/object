@@ -9,3 +9,5 @@ Thumbs.db
 
 # Custom
 arduino/
+.pioenvs
+.piolibdeps
